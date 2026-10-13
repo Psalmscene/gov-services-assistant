@@ -1,0 +1,164 @@
+{
+ "documents": [
+  {
+   "sector": "BIRTH-POPULATION",
+   "file": "Completed Nigeria Population Projection.pdf",
+   "title": "Completed Nigeria Population Projection",
+   "pages": 422,
+   "chunks": 4273
+  },
+  {
+   "sector": "BIRTH-POPULATION",
+   "file": "Nigeria DHS Key Indicators 2023-2024.pdf",
+   "title": "Nigeria DHS Key Indicators 2023 2024",
+   "pages": 94,
+   "chunks": 606
+  },
+  {
+   "sector": "BIRTH-POPULATION",
+   "file": "Nigeria Demography and Health Survey 23-24.pdf",
+   "title": "Nigeria Demography and Health Survey 23 24",
+   "pages": 981,
+   "chunks": 5995
+  },
+  {
+   "sector": "BIRTH-POPULATION",
+   "file": "Understanding Census Questions.pdf",
+   "title": "Understanding Census Questions",
+   "pages": 44,
+   "chunks": 115
+  },
+  {
+   "sector": "CAC",
+   "file": "CAMA-NOTE-BOOK-FULL-VERSION.pdf",
+   "title": "CAMA NOTE BOOK FULL VERSION",
+   "pages": 526,
+   "chunks": 1932
+  },
+  {
+   "sector": "CAC",
+   "file": "COMPANIES-REGULATIONS-2021-published.pdf",
+   "title": "COMPANIES REGULATIONS 2021 published",
+   "pages": 291,
+   "chunks": 794
+  },
+  {
+   "sector": "CAC",
+   "file": "Insolvency-Regulations-2022.pdf",
+   "title": "Insolvency Regulations 2022",
+   "pages": 127,
+   "chunks": 326
+  },
+  {
+   "sector": "CAC",
+   "file": "PSC-Regulations-2022.pdf",
+   "title": "PSC Regulations 2022",
+   "pages": 87,
+   "chunks": 216
+  },
+  {
+   "sector": "CONSTITUTION",
+   "file": "1999-Nigerian-Constitution.pdf",
+   "title": "1999 Nigerian Constitution",
+   "pages": 118,
+   "chunks": 623
+  },
+  {
+   "sector": "IMMIGRATION",
+   "file": "IMMIGRATION SERVICE-LEVEL-AGREEMENT-2026_.pdf",
+   "title": "IMMIGRATION SERVICE LEVEL AGREEMENT 2026 ",
+   "pages": 92,
+   "chunks": 273
+  },
+  {
+   "sector": "INEC",
+   "file": "2023-Election-Procedure and polling unit operation.pdf",
+   "title": "2023 Election Procedure and polling unit operation",
+   "pages": 8,
+   "chunks": 15
+  },
+  {
+   "sector": "INEC",
+   "file": "CONDUCT-OF-SUPPLEMENTARY-ELECTIONS.pdf",
+   "title": "CONDUCT OF SUPPLEMENTARY ELECTIONS",
+   "pages": 1,
+   "chunks": 3
+  },
+  {
+   "sector": "INEC",
+   "file": "Electoral-Act-2026.pdf",
+   "title": "Electoral Act 2026",
+   "pages": 124,
+   "chunks": 379
+  },
+  {
+   "sector": "INEC",
+   "file": "Electronic_Transmission___Collation_Of_Result-5.pdf",
+   "title": "Electronic Transmission   Collation Of Result 5",
+   "pages": 4,
+   "chunks": 17
+  },
+  {
+   "sector": "INEC",
+   "file": "REGULATIONS-AND-GUIDELINES-FOR-2026 ELECTION.pdf",
+   "title": "REGULATIONS AND GUIDELINES FOR 2026 ELECTION",
+   "pages": 40,
+   "chunks": 188
+  },
+  {
+   "sector": "JAMB",
+   "file": "JAMB-Brochure-Academicng.com_.pdf",
+   "title": "JAMB Brochure Academicng.com ",
+   "pages": 1031,
+   "chunks": 3164
+  },
+  {
+   "sector": "JAMB",
+   "file": "List-of-all-Degree-Awarding-Institutions.pdf",
+   "title": "List of all Degree Awarding Institutions",
+   "pages": 24,
+   "chunks": 101
+  },
+  {
+   "sector": "JAMB",
+   "file": "Strategic Roadmap for Inclusive Access to Quality Education 2024-2028.pdf",
+   "title": "Strategic Roadmap for Inclusive Access to Quality Education 2024 2028",
+   "pages": 77,
+   "chunks": 339
+  },
+  {
+   "sector": "NIN",
+   "file": "MandatoryNIN_Gazetted_2017.pdf",
+   "title": "MandatoryNIN Gazetted 2017",
+   "pages": 8,
+   "chunks": 21
+  },
+  {
+   "sector": "NIN",
+   "file": "nimc_act_2026.pdf",
+   "title": "nimc act 2026",
+   "pages": 27,
+   "chunks": 83
+  },
+  {
+   "sector": "TAX",
+   "file": "FA_Qs_Rev360_4ba045d767.pdf",
+   "title": "FA Qs Rev360 4ba045d767",
+   "pages": 5,
+   "chunks": 16
+  },
+  {
+   "sector": "TAX",
+   "file": "Rev360_User_Manual_TSSP_new_e8ff279f71.pdf",
+   "title": "Rev360 User Manual TSSP new e8ff279f71",
+   "pages": 117,
+   "chunks": 146
+  }
+ ],
+ "totals": {
+  "documents": 22,
+  "pages": 4248,
+  "chunks": 19625,
+  "sectors": 8
+ }
+}

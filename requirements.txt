@@ -1,0 +1,5 @@
+streamlit==1.65.0
+numpy
+pandas
+groq
+fastembed
